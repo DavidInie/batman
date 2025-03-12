@@ -1,0 +1,10 @@
+body {
+    font-family:"Pixelify Sans";
+    color: rgb(246, 0, 0);
+    text-align: center;
+    background-image:url(./img/header_background.jpeg);
+    background-size: cover;             
+    background-position: center;               
+    height: 98vh;
+  }
+ 
