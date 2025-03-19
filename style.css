@@ -30,7 +30,7 @@ body {
   text-align: justify;
   max-width: 48%;
   margin: auto;
-  font-size: 20px;
+  font-size: 18px;
   font-family: "Montserrat";
 }
 
@@ -40,4 +40,30 @@ body {
 }
 #TheBatman{
   color:red
+}
+
+#h2bat{
+  color:rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+#h2espo{
+  font-family: "Bodoni Moda";
+  color:rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+#img1{
+  width: 730px;
+}
+
+#h2juego{
+  font-family: "Big Shoulders";
+  color:rgb(0, 0, 0);
+  font-size: 25px;
+}
+
+#enlace{
+  color: red;
+  text-decoration: none;
 }
